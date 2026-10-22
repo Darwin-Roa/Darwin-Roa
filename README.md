@@ -12,7 +12,7 @@ Convierto datos y procesos complejos en soluciones claras y confiables. Trabajo 
 ### 🚀 Lo que hago
 
 - 📊 **Analizo datos reales**: más de 2 años y medio revisando consumos de gas, depurando críticas de facturación, haciendo ajustes y transmitiendo información a la DIAN.
-- 💻 **Construyo sistemas completos**: desarrollé **Sistema Profesoral**, una plataforma web multicapa para la gestión académica y el seguimiento de planes de mejoramiento docente, durante 6 meses de práctica profesional en la Universidad Simón Bolívar.
+- 💻 **Construyo sistemas completos**: desarrollé **Sistema Profesoral**, una plataforma web multicapa para la gestión académica y el seguimiento de planes de mejoramiento docente, durante 6 meses en la Universidad Simón Bolívar.
 - 🧩 **Uno análisis y desarrollo**: entiendo el dato desde la consulta SQL hasta la pantalla que lo muestra.
 - 🌐 Inglés B1 para leer documentación y trabajar en equipos internacionales.
 
